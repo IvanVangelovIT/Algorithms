@@ -1,0 +1,16 @@
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.csprojAssemblyReference.cache
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.AssemblyInfo.cs
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\bin\Debug\net5.0\Recursive Sum Array.exe
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\bin\Debug\net5.0\Recursive Sum Array.deps.json
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\bin\Debug\net5.0\Recursive Sum Array.runtimeconfig.json
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\bin\Debug\net5.0\Recursive Sum Array.runtimeconfig.dev.json
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\bin\Debug\net5.0\Recursive Sum Array.dll
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\bin\Debug\net5.0\ref\Recursive Sum Array.dll
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\bin\Debug\net5.0\Recursive Sum Array.pdb
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.dll
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\ref\Recursive Sum Array.dll
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.pdb
+D:\Programing\Algorithms\Recursion\Recursive Sum Array\obj\Debug\net5.0\Recursive Sum Array.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\net5.0\ref\BubbleSort.dll
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.csprojAssemblyReference.cache
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+D:\Programing\Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache

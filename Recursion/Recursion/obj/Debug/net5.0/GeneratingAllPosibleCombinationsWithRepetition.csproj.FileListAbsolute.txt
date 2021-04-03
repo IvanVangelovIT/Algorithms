@@ -1,0 +1,15 @@
+D:\Programing\Algorithms\Recursion\Recursion\bin\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.exe
+D:\Programing\Algorithms\Recursion\Recursion\bin\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.deps.json
+D:\Programing\Algorithms\Recursion\Recursion\bin\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.runtimeconfig.json
+D:\Programing\Algorithms\Recursion\Recursion\bin\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.runtimeconfig.dev.json
+D:\Programing\Algorithms\Recursion\Recursion\bin\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.dll
+D:\Programing\Algorithms\Recursion\Recursion\bin\Debug\net5.0\ref\GeneratingAllPosibleCombinationsWithRepetition.dll
+D:\Programing\Algorithms\Recursion\Recursion\bin\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.pdb
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.AssemblyInfo.cs
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.dll
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\ref\GeneratingAllPosibleCombinationsWithRepetition.dll
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.pdb
+D:\Programing\Algorithms\Recursion\Recursion\obj\Debug\net5.0\GeneratingAllPosibleCombinationsWithRepetition.genruntimeconfig.cache

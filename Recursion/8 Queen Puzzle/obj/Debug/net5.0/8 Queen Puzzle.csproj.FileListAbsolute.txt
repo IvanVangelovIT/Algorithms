@@ -1,0 +1,16 @@
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\bin\Debug\net5.0\8 Queen Puzzle.exe
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\bin\Debug\net5.0\8 Queen Puzzle.deps.json
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\bin\Debug\net5.0\8 Queen Puzzle.runtimeconfig.json
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\bin\Debug\net5.0\8 Queen Puzzle.runtimeconfig.dev.json
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\bin\Debug\net5.0\8 Queen Puzzle.dll
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\bin\Debug\net5.0\ref\8 Queen Puzzle.dll
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\bin\Debug\net5.0\8 Queen Puzzle.pdb
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.csprojAssemblyReference.cache
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.AssemblyInfo.cs
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.dll
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\ref\8 Queen Puzzle.dll
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.pdb
+D:\Programing\Algorithms\Recursion\8 Queen Puzzle\obj\Debug\net5.0\8 Queen Puzzle.genruntimeconfig.cache

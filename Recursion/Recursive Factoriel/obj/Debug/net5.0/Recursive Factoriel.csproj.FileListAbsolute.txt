@@ -1,0 +1,15 @@
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\bin\Debug\net5.0\Recursive Factoriel.exe
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\bin\Debug\net5.0\Recursive Factoriel.deps.json
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\bin\Debug\net5.0\Recursive Factoriel.runtimeconfig.json
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\bin\Debug\net5.0\Recursive Factoriel.runtimeconfig.dev.json
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\bin\Debug\net5.0\Recursive Factoriel.dll
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\bin\Debug\net5.0\ref\Recursive Factoriel.dll
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\bin\Debug\net5.0\Recursive Factoriel.pdb
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\Recursive Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\Recursive Factoriel.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\Recursive Factoriel.AssemblyInfo.cs
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\Recursive Factoriel.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\Recursive Factoriel.dll
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\ref\Recursive Factoriel.dll
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\Recursive Factoriel.pdb
+D:\Programing\Algorithms\Recursion\Recursive Factoriel\obj\Debug\net5.0\Recursive Factoriel.genruntimeconfig.cache

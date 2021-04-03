@@ -1,0 +1,16 @@
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\bin\Debug\net5.0\TowerOFHanoi.exe
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\bin\Debug\net5.0\TowerOFHanoi.deps.json
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\bin\Debug\net5.0\TowerOFHanoi.runtimeconfig.json
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\bin\Debug\net5.0\TowerOFHanoi.runtimeconfig.dev.json
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\bin\Debug\net5.0\TowerOFHanoi.dll
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\bin\Debug\net5.0\ref\TowerOFHanoi.dll
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\bin\Debug\net5.0\TowerOFHanoi.pdb
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.csprojAssemblyReference.cache
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.AssemblyInfo.cs
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.dll
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\ref\TowerOFHanoi.dll
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.pdb
+D:\Programing\Algorithms\Recursion\TowerOFHanoi\obj\Debug\net5.0\TowerOFHanoi.genruntimeconfig.cache

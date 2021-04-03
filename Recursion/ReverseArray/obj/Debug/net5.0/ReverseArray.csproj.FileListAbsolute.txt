@@ -1,0 +1,16 @@
+D:\Programing\Algorithms\Recursion\ReverseArray\bin\Debug\net5.0\ReverseArray.exe
+D:\Programing\Algorithms\Recursion\ReverseArray\bin\Debug\net5.0\ReverseArray.deps.json
+D:\Programing\Algorithms\Recursion\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.json
+D:\Programing\Algorithms\Recursion\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.dev.json
+D:\Programing\Algorithms\Recursion\ReverseArray\bin\Debug\net5.0\ReverseArray.dll
+D:\Programing\Algorithms\Recursion\ReverseArray\bin\Debug\net5.0\ref\ReverseArray.dll
+D:\Programing\Algorithms\Recursion\ReverseArray\bin\Debug\net5.0\ReverseArray.pdb
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.csprojAssemblyReference.cache
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfo.cs
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.dll
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ref\ReverseArray.dll
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.pdb
+D:\Programing\Algorithms\Recursion\ReverseArray\obj\Debug\net5.0\ReverseArray.genruntimeconfig.cache

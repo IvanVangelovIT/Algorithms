@@ -1,46 +1,40 @@
 ﻿using System;
 using System.Linq;
 
-namespace SortingAlgorithms
+namespace BubbleSort
 {
-    /// <summary>
-    /// Time Complexity: O(n^2). Two nested loops; 
-    /// In the second iteration we are searching for min element and when we find it
-    /// we swap with the element from the first iteration
-    /// </summary>
-    class SelectionSort
+    class BubbleSort
     {
         public static int[] arr;
+
+        /// <summary>
+        /// Time complexity O(n^2)
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
-         {
+        {
             Console.WriteLine("Enter numbers separated by space");
             arr = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
                 .ToArray();
 
-            SelectionSortMethod(arr);
+            BubbleSortMethod(arr);
         }
 
-        private static void SelectionSortMethod(int[] arr)
+        private static void BubbleSortMethod(int[] arr)
         {
             int length = arr.Length;
             //First Iteartion
             for (int i = 0; i < length; i++)
             {
-                int minIndex = i;
-
                 //Second Iteration
                 for (int j = i + 1; j < length; j++)
                 {
-                    if (arr[minIndex] > arr[j])
+                    if (arr[i] > arr[j])
                     {
-                        minIndex = j;
+                        SwapElements(i, j);
                     }
-                }
-                if (minIndex != i)
-                {
-                     SwapElements(i, minIndex);
                 }
             }
 
