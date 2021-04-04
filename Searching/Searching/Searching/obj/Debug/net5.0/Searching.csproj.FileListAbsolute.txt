@@ -1,0 +1,16 @@
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.csprojAssemblyReference.cache
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.AssemblyInfoInputs.cache
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.AssemblyInfo.cs
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.csproj.CoreCompileInputs.cache
+D:\Programing\Algorithms\Searching\Searching\Searching\bin\Debug\net5.0\Searching.exe
+D:\Programing\Algorithms\Searching\Searching\Searching\bin\Debug\net5.0\Searching.deps.json
+D:\Programing\Algorithms\Searching\Searching\Searching\bin\Debug\net5.0\Searching.runtimeconfig.json
+D:\Programing\Algorithms\Searching\Searching\Searching\bin\Debug\net5.0\Searching.runtimeconfig.dev.json
+D:\Programing\Algorithms\Searching\Searching\Searching\bin\Debug\net5.0\Searching.dll
+D:\Programing\Algorithms\Searching\Searching\Searching\bin\Debug\net5.0\ref\Searching.dll
+D:\Programing\Algorithms\Searching\Searching\Searching\bin\Debug\net5.0\Searching.pdb
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.dll
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\ref\Searching.dll
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.pdb
+D:\Programing\Algorithms\Searching\Searching\Searching\obj\Debug\net5.0\Searching.genruntimeconfig.cache
